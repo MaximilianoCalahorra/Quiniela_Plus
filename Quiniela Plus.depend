@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1704213751 source:d:\portafolio\c\quiniela plus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"quiniela_plus.h"
+	"carton.h"
+
+1704214160 d:\portafolio\c\quiniela plus\quiniela_plus.h
+
+1704206283 source:d:\portafolio\c\quiniela plus\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+
+1704206249 d:\portafolio\c\quiniela plus\jugador.h
+
+1704213855 source:d:\portafolio\c\quiniela plus\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"quiniela_plus.h"
+
+1704213852 d:\portafolio\c\quiniela plus\carton.h
+	"jugador.h"
+
